@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link to the solution on my github](https://github.com/JulietNnaji/results-summary-component-main)
-- Link to the live solution on Netlify (https://magical-dodol-e0498b.netlify.app)
+- Link to the live solution on Netlify (https://cerulean-sundae-c43c46.netlify.app/)
 
 
 ### Built with
